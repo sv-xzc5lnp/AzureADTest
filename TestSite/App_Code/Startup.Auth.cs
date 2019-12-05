@@ -44,8 +44,8 @@ namespace TestSite
                         UseProxy = true,
                         Proxy = new WebProxy
                         {
-                            Address = new Uri("http://proxy.ups.com:8080/"),
-                            Credentials = new NetworkCredential("gscf-pro", "xES11JUT")
+                            Address = new Uri(""),
+                            Credentials = new NetworkCredential("gscfgfgfdgfgfdgfdgpro", "fdgkjfgfdgjfdkjg")
                         }
                     },
                     ResponseType = OpenIdConnectResponseType.IdToken,
